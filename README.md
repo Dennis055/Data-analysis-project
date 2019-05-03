@@ -15,8 +15,11 @@
 
 Welcome to my data science project  :) , and I have divided my project into these repository:
 1.Algorithm :To record the machine learning algorithm thar I have implemented.
+
 2.project_analysis :Based on my interest , crawling the data from website or get data from professional,then analyze the data.
+
 3.social_analysis ：All about social analysis , expect to add NLP project to this repository.
+
 4.kaggle :To record my kaggle competition and more complex project.
 
 
